@@ -1,4 +1,4 @@
-# Calculadora1
+# Calculadora_Java
 
 ![Captura de pantalla 2022-08-06 140518](https://user-images.githubusercontent.com/89557515/183264573-f24aa3bc-477b-4da6-b5f9-3471f9fa7c30.png)
 
